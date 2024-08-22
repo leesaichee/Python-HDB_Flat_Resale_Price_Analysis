@@ -1,7 +1,7 @@
 # Python-HDB_Flat_Resale_Price_Analysis
 As part of the Career Foundry Data Analytics Program, this [project](01%20Project%20Management/A6_Data_Project_Brief.pdf) is aimed to build an interactive dashboard that will visually showcase well-curated results of an advanced exploratory analysis conducted in Python. 
 
-![HDB flats](https://www.patkoproperty.com/content/images/size/w1140/2022/09/The-Checks-Before-Buying-a-Old-Flat.webp)
+![HDB flats image](https://www.patkoproperty.com/content/images/size/w1140/2022/09/The-Checks-Before-Buying-a-Old-Flat.webp)
 
 ## Background
 The Housing and Development Board (HDB) is Singapore’s public housing authority, responsible for developing affordable, high-quality homes. Compared to Build-To-Order (BTO) flats, resale flats offer immediate availability, a variety of locations with established amenities, and greater flexibility in terms of unit type. However, a significant challenge is the rising prices in the resale market, which can be considerably higher than new BTO flats and may limit affordability for some buyers. 
