@@ -17,5 +17,13 @@ To study the factors that could affect the resale price of the HDB flats based o
 4) How does the resale price change over time?
 
 ## Data citation:
-The Resale Flat Prices dataset collection was accessed on 28 January 2024 from Data.gov.sg which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).
+The Resale Flat Prices dataset collection was accessed on 28 January 2024 from [Data.gov.sg](https://data.gov.sg/collections/189/view) which is made available under the terms of the Singapore Open Data Licence [version 1.0](https://data.gov.sg/open-data-licence).
 
+## Tools
+Python (), Excel, Tabeau Public
+
+## Project Folders Arrangement
+
+## Final Deliverables
+- A [Tableau storyboard](https://public.tableau.com/views/HDBFlatResalePriceAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- An [Excel report](05%20Sent%20to%20Client/Final%20Report.xlsx)
