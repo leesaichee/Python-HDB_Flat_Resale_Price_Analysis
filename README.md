@@ -1,6 +1,8 @@
 # Python-HDB_Flat_Resale_Price_Analysis
 As part of the Career Foundry Data Analytics Program, this [project](01%20Project%20Management/A6_Data_Project_Brief.pdf) is aimed to build an interactive dashboard that will visually showcase well-curated results of an advanced exploratory analysis conducted in Python. 
 
+![HDB flats](https://www.patkoproperty.com/content/images/size/w1140/2022/09/The-Checks-Before-Buying-a-Old-Flat.webp)
+
 ## Background
 The Housing and Development Board (HDB) is Singapore’s public housing authority, responsible for developing affordable, high-quality homes. Compared to Build-To-Order (BTO) flats, resale flats offer immediate availability, a variety of locations with established amenities, and greater flexibility in terms of unit type. However, a significant challenge is the rising prices in the resale market, which can be considerably higher than new BTO flats and may limit affordability for some buyers. 
 
@@ -24,7 +26,9 @@ To study the factors that could affect the resale price of the HDB flats based o
 5) Master Plan 2019 Planning Area Boundary (No Sea): accessed on 25 March 2024 from [Data.gov.sg](https://data.gov.sg/collections/2104/view) which is made available under the terms of the Singapore Open Data Licence [version 1.0](https://data.gov.sg/open-data-licence).
 
 ## Tools
-Python (Pandas, Numpy, Asynchronous I/O, AIOHTTP, GeoPandas, Matplotlib, Seaborn, Folium, Scikit-learn: linear regression and k-means clustering, Statsmodels: time series analysis and forecasting), Excel, Tabeau Public
+- Python (Pandas, Numpy, Asynchronous I/O, AIOHTTP, GeoPandas, Matplotlib, Seaborn, Folium, Scikit-learn: linear regression and k-means clustering, Statsmodels: time series analysis and forecasting)
+- Excel
+- Tabeau Public
 
 ## Project Folders Arrangement
 1) [Project Management](01%20Project%20Management)
