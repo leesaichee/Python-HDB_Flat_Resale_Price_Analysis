@@ -24,7 +24,7 @@ To study the factors that could affect the resale price of the HDB flats based o
 5) Master Plan 2019 Planning Area Boundary (No Sea): accessed on 25 March 2024 from [Data.gov.sg](https://data.gov.sg/collections/2104/view) which is made available under the terms of the Singapore Open Data Licence [version 1.0](https://data.gov.sg/open-data-licence).
 
 ## Tools
-Python (pandas, numpy, asyncio, aiohttp, geopandas, matplotlib, seaborn, folium, sklearn), Excel, Tabeau Public
+Python (Pandas, Numpy, Asynchronous I/O, AIOHTTP, GeoPandas, Matplotlib, Seaborn, Folium, Scikit-learn: linear regression and k-means clustering, Statsmodels: time series analysis and forecasting), Excel, Tabeau Public
 
 ## Project Folders Arrangement
 1) [Project Management](01%20Project%20Management)
@@ -43,6 +43,3 @@ Python (pandas, numpy, asyncio, aiohttp, geopandas, matplotlib, seaborn, folium,
 1) A [Tableau storyboard](https://public.tableau.com/views/HDBFlatResalePriceAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    - NOTE: The storyboard contains only those relevant to the final results. Detailed steps can refer to the Python scripts. 
 2) An [Excel report](05%20Sent%20to%20Client/Final%20Report.xlsx)
-
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
