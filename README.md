@@ -11,7 +11,7 @@ To study the factors that could affect the resale price of the HDB flats based o
 
 ## Business Questions
 1) Which factors below would affect the resale price of the resale flats?
-   - floor area (sqm), remaining lease, distance to nearest train station (m), storey range midpoint
+   - floor area (sqm), remaining lease, distance to nearest train station, storey range midpoint
 2) For the categorical variables below, which categories have higher resale price?
    - flat type, flat model, interchange flag (whether if the nearest train station is an interchange)
 3) How does the resale price differ geographically?
