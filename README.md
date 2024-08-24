@@ -27,6 +27,7 @@ To study the factors that could affect the resale price of the HDB flats based o
 
 ## Tools
 - Python (Pandas, Numpy, Asynchronous I/O, AIOHTTP, GeoPandas, Matplotlib, Seaborn, Folium, Scikit-learn: linear regression and k-means clustering, Statsmodels: time series analysis and forecasting)
+- Jupyter Notebook
 - Excel
 - Tabeau Public
 
