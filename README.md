@@ -46,5 +46,5 @@ To study the factors that could affect the resale price of the HDB flats based o
 
 ## Final Deliverables
 1) [Tableau storyboard](https://public.tableau.com/views/HDBFlatResalePriceAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-   - NOTE: The storyboard contains only those relevant to the final results. Detailed steps can refer to the Python scripts. 
+   - NOTE: The storyboard does not contain every step took as part of the analysis — only those relevant to the final results.
 2) [Excel report](05%20Sent%20to%20Client/Final%20Report.xlsx)
