@@ -19,7 +19,7 @@ To study the factors that could affect the resale price of the HDB flats based o
 4) How does the resale price change over time? 
 
 ## Data Source: 
-1) **Resale Flat Prices dataset collection**: accessed on 28 January 2024 from [Data.gov.sg](https://data.gov.sg/collections/189/view) which is made available under the terms of the Singapore Open Data Licence [version 1.0](https://data.gov.sg/open-data-licence).
+1) **HDB resale flat prices**: accessed on 28 January 2024 from [Data.gov.sg](https://data.gov.sg/collections/189/view) which is made available under the terms of the Singapore Open Data Licence [version 1.0](https://data.gov.sg/open-data-licence).
 2) **List of train stations with opening and closure dates**: retrieved from Wikipedia - [MRT](https://en.wikipedia.org/wiki/List_of_Singapore_MRT_stations), [LRT](https://en.wikipedia.org/wiki/List_of_Singapore_LRT_stations)
 3) **2019-based consumer price index (CPI)**: retrieved from [SingStat Table Builder](https://tablebuilder.singstat.gov.sg/table/TS/M212881)
 4) **Master Plan 2019 Region Boundary (No Sea)**: accessed on 25 March 2024 from [Data.gov.sg](https://data.gov.sg/collections/1717/view) which is made available under the terms of the Singapore Open Data Licence [version 1.0](https://data.gov.sg/open-data-licence).
