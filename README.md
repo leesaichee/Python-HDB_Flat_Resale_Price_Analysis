@@ -26,7 +26,7 @@ To study the factors that could affect the resale price of the HDB flats based o
 5) **Master Plan 2019 Planning Area Boundary (No Sea)**: accessed on 25 March 2024 from [Data.gov.sg](https://data.gov.sg/collections/2104/view) which is made available under the terms of the Singapore Open Data Licence [version 1.0](https://data.gov.sg/open-data-licence).
 
 ## Tools
-- Python (Pandas, Numpy, Async IO, AIOHTTP, GeoPandas, Matplotlib, Seaborn, Folium, Scikit-learn: linear regression and k-means clustering, Statsmodels: time series analysis and forecasting)
+- Python (Pandas, Numpy, Async IO, AIOHTTP, GeoPandas, Matplotlib, Seaborn, Folium, Scikit-learn - linear regression and k-means clustering, Statsmodels - time series analysis and forecasting)
 - Jupyter Notebook
 - Excel
 - Tabeau Public
